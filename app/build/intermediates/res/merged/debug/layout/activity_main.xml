@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    android:background="#000000"
+    android:fitsSystemWindows="true"
+    tools:context="com.example.feons.gpstracker.MainActivity">
+
+    <TextView
+        android:id="@+id/txtLatitude"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Latitude: "
+        android:textColor="#ffffff"
+        android:textSize="24dp"
+        />
+    <TextView
+        android:id="@+id/txtLongitude"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/txtLatitude"
+        android:text="Longitude: "
+        android:textColor="#ffffff"
+        android:textSize="24dp"
+        />
+    <TextView
+        android:id="@+id/txtCity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/txtLongitude"
+        android:text="City: "
+        android:textColor="#ffffff"
+        android:textSize="24dp"
+
+        />
+    <TextView
+        android:id="@+id/txtPresent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/txtCity"
+        android:text="Present: "
+        android:textColor="#ffffff"
+        android:textSize="24dp"
+        />
+    <TextView
+        android:id="@+id/txtBeen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/txtPresent"
+        android:text="Been: "
+        android:textColor="#ffffff"
+        android:textSize="24dp"
+
+    />
+
+</RelativeLayout>

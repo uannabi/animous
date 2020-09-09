@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\workplace\GPSTracker\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="D:\workplace\GPSTracker\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_1b29f774d84bf261124524115f33872b839736a0.jar" />
+    </item>
+    <item
+        jar="D:\workplace\GPSTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="D:\workplace\GPSTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.1.0_54f5a4d35c87129e9afeb8f809b2b0102d359b01.jar" />
+    </item>
+    <item
+        jar="D:\workplace\GPSTracker\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\workplace\GPSTracker\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_035217cf0933566ea633e175a2afdf11974410b1.jar" />
+    </item>
+    <item
+        jar="D:\workplace\GPSTracker\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="D:\workplace\GPSTracker\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_769f0d4711ca07b7e9050ed80d2245b0f7ab766a.jar" />
+    </item>
+    <item
+        jar="C:\Users\feons\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\workplace\GPSTracker\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_87b9912146efc52e36d4302860d1c306f8f16e29.jar" />
+    </item>
+    <item
+        jar="D:\workplace\GPSTracker\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\workplace\GPSTracker\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_68dbb1cd847c60bc89ae8e082de1f52158db2fe0.jar" />
+    </item>
+    <item
+        jar="D:\workplace\GPSTracker\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\workplace\GPSTracker\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_927cf3c688167b92c712d2399c0b0cb2ece96da7.jar" />
+    </item>
+    <item
+        jar="D:\workplace\GPSTracker\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="D:\workplace\GPSTracker\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_a1339f1626733401d50449421a22d4765292871c.jar" />
+    </item>
+
+</items>
